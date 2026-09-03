@@ -1,0 +1,30 @@
+Image : Abbeville-14_10__6_Dx.jpg
+Modèle : allenai/Molmo2-8B
+Thésaurus : thesau_angl.json (95 termes)
+
+=== Réponse brute (détection) ===
+balcony, balustrade, column, cornice, door, door/window surround, dormer window, entablature, flat roof, glass, grille, jamb, lintel, mullion, pediment, pilaster, pointed arch, roof tile, window
+
+=== Mots validés (présents dans le thésaurus) ===
+balcony, balustrade, column, cornice, door, door/window surround, dormer window, entablature, flat roof, glass, grille, jamb, lintel, mullion, pediment, pilaster, pointed arch, roof tile, window
+
+=== Points par terme (coordonnées en pixels) ===
+balcony: (131.5, 525.8); (137.6, 388.8); (154.2, 233.0); (169.3, 77.3); (585.1, 77.3); (600.3, 233.0); (607.8, 388.8); (622.9, 525.8)
+balustrade: (145.2, 513.4)
+column: (269.9, 152.0); (315.3, 152.0); (447.6, 152.0); (492.9, 152.0)
+cornice: (396.1, 108.4)
+door: (aucun point)
+door/window surround: (372.0, 613.0)
+dormer window: (55.9, 19.9)
+entablature: (396.1, 139.6)
+flat roof: (396.1, 4.4)
+glass: (396.1, 469.7)
+grille: (169.3, 513.4)
+jamb: (320.5, 307.8)
+lintel: (381.0, 170.7)
+mullion: (320.5, 463.5); (321.3, 314.0); (358.3, 463.5); (359.1, 314.0); (396.1, 463.5); (396.9, 314.0); (433.9, 463.5); (434.7, 314.0)
+pediment: (205.6, 32.4); (381.0, 13.7); (570.0, 29.3)
+pilaster: (273.7, 152.0); (315.3, 152.0); (447.6, 152.0); (489.1, 152.0)
+pointed arch: (381.0, 13.7)
+roof tile: (205.6, 32.4); (387.1, 7.5); (570.0, 29.3)
+window: (396.1, 469.7)

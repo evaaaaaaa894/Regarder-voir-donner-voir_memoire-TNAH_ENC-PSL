@@ -1,0 +1,18 @@
+Image : Celestins-Qu-2b_4__68.jpg
+Modèle : florence-community/Florence-2-large
+Thésaurus : thesau_angl.json (95 termes)
+
+=== Description détaillée (brute) ===
+The image shows the entrance of a building with two large red doors. The doors are made of stone and have intricate carvings on the top and sides. On the left side of the doors, there is a statue of a woman's head with a crown on her head. The statue is of a man with a beard and a long beard, wearing a long robe and holding a staff. The man is standing in front of the door with his arms crossed and a serious expression on his face. The door on the right side is also made of red wood and has a similar design to the one on the left. Above the statue, there are two ornate decorations with flowers and leaves. The overall style of the building appears to be old and weathered.
+
+=== Régions détectées, labels bruts ===
+red wooden door, red wooden double doors, Roman goddess statue on stone wall with red door, Roman emperor statue with headdress and grapes, human face, human face
+
+=== Mots validés (présents dans le thésaurus) ===
+door
+
+=== Labels hors thésaurus (ignorés) ===
+Roman emperor statue with headdress and grapes, Roman goddess statue on stone wall with red door, human face, red wooden door, red wooden double doors
+
+=== Bounding boxes par terme (pixels, x0 y0 x1 y1) ===
+door: (771.0, 577.0, 1256.0, 1722.0); (82.0, 762.0, 500.0, 1551.0)

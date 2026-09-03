@@ -1,0 +1,19 @@
+Image : Celestins-Qu-2b_4__68.jpg
+Modele detection : llava-hf/llava-1.5-7b-hf
+Modele localisation : IDEA-Research/grounding-dino-tiny
+Thesaurus : thesau_angl.json (95 termes)
+
+=== Reponses brutes de LLaVA par lot ===
+[Lot 1] French window, door, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/window surround, door knocker, door leaf, door/window frame, door/
+
+=== Mots valides (presents dans le thesaurus) ===
+French window, door, door knocker, door leaf, door/window frame, door/window surround, window
+
+=== Bounding boxes par terme (pixels, x0 y0 x1 y1) ===
+French window: (aucune bbox)
+door: (81.8, 756.1, 504.0, 1556.1); (767.1, 568.5, 1254.8, 1725.2); (82.9, 758.7, 502.9, 1553.8); (768.1, 570.0, 1255.1, 1725.2)
+door knocker: (515.5, 584.3, 807.6, 1566.8)
+door leaf: (aucune bbox)
+door/window frame: (aucune bbox)
+door/window surround: (aucune bbox)
+window: (aucune bbox)

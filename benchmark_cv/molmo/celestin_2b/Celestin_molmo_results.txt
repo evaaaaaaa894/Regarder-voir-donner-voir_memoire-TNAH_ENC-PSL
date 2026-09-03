@@ -1,0 +1,15 @@
+Image : Celestins-Qu-2b_4__68.jpg
+Modèle : allenai/Molmo2-8B
+Thésaurus : thesau_angl.json (95 termes)
+
+=== Réponse brute (détection) ===
+door, door leaf, door/window surround, sculpture
+
+=== Mots validés (présents dans le thésaurus) ===
+door, door leaf, door/window surround, sculpture
+
+=== Points par terme (coordonnées en pixels) ===
+door: (344.7, 1301.0); (996.3, 1301.0)
+door leaf: (156.0, 1297.4); (344.7, 1297.4); (910.8, 1297.4); (1162.4, 1297.4)
+door/window surround: (67.9, 977.6); (281.8, 704.4); (304.4, 1570.6); (493.1, 977.6)
+sculpture: (659.2, 974.0)

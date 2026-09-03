@@ -1,0 +1,47 @@
+Image : Abbeville-14_10__6_Dx.jpg
+Modele detection : llava-hf/llava-1.5-7b-hf
+Modele localisation : IDEA-Research/grounding-dino-tiny
+Thesaurus : thesau_angl.json (95 termes)
+
+=== Reponses brutes de LLaVA par lot ===
+[Lot 1] French window, column, arch, balcony, door, door/window frame, door/window surround, door knocker, door leaf, large ashlar, lintel, mullion, oculus, oriel window, porch, portico, projecting bay, quoin, ridge, ridge finial, small ashlar, stained glass window, staircase, string course, terracotta, tower, triplet window, vault, window, woodwork, wrought iron.
+
+=== Mots valides (presents dans le thesaurus) ===
+French window, arch, ashlar, balcony, bay, column, door, door knocker, door leaf, door/window frame, door/window surround, glass, iron, large ashlar, lintel, mullion, oculus, oriel window, porch, portico, projecting bay, quoin, ridge, ridge finial, small ashlar, stained glass window, staircase, string course, terracotta, tower, triplet window, vault, window, woodwork, wrought iron
+
+=== Bounding boxes par terme (pixels, x0 y0 x1 y1) ===
+French window: (aucune bbox)
+arch: (aucune bbox)
+ashlar: (aucune bbox)
+balcony: (aucune bbox)
+bay: (aucune bbox)
+column: (aucune bbox)
+door: (aucune bbox)
+door knocker: (aucune bbox)
+door leaf: (aucune bbox)
+door/window frame: (aucune bbox)
+door/window surround: (aucune bbox)
+glass: (aucune bbox)
+iron: (aucune bbox)
+large ashlar: (aucune bbox)
+lintel: (aucune bbox)
+mullion: (aucune bbox)
+oculus: (aucune bbox)
+oriel window: (aucune bbox)
+porch: (aucune bbox)
+portico: (aucune bbox)
+projecting bay: (aucune bbox)
+quoin: (aucune bbox)
+ridge: (aucune bbox)
+ridge finial: (aucune bbox)
+small ashlar: (aucune bbox)
+stained glass window: (307.4, 260.5, 448.9, 366.2)
+staircase: (aucune bbox)
+string course: (aucune bbox)
+terracotta: (aucune bbox)
+tower: (aucune bbox)
+triplet window: (aucune bbox)
+vault: (aucune bbox)
+window: (aucune bbox)
+woodwork: (aucune bbox)
+wrought iron: (aucune bbox)

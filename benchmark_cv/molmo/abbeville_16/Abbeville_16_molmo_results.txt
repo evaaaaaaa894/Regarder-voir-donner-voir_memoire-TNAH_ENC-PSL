@@ -1,0 +1,35 @@
+Image : Abbeville-16_10__8.jpg
+Modèle : allenai/Molmo2-8B
+Thésaurus : thesau_angl.json (95 termes)
+
+=== Réponse brute (détection) ===
+balcony, balustrade, capital, column, cornice, door, door/window frame, dormer window, entablature, fluted column, gargoyle, glass, grille, jamb, lintel, mullion, pediment, pilaster, pointed arch, roof, sculpture, shutter, window
+
+=== Mots validés (présents dans le thésaurus) ===
+balcony, balustrade, capital, column, cornice, door, door/window frame, dormer window, entablature, gargoyle, glass, grille, jamb, lintel, mullion, pediment, pilaster, pointed arch, sculpture, shutter, window
+
+=== Mots proposés hors thésaurus (ignorés) ===
+fluted column, roof
+
+=== Points par terme (coordonnées en pixels) ===
+balcony: (167.8, 957.5); (192.1, 1358.2); (706.3, 894.2); (706.3, 1316.0); (1182.5, 968.0); (1206.9, 1379.3)
+balustrade: (100.1, 626.4); (165.1, 1765.2); (235.4, 584.2); (665.7, 489.3); (1047.2, 573.6); (1182.5, 615.8); (1250.2, 1775.8); (1321.9, 662.2)
+capital: (706.3, 1780.0)
+column: (1047.2, 1569.1)
+cornice: (665.7, 577.9)
+door: (aucun point)
+door/window frame: (665.7, 1948.7)
+dormer window: (259.8, 267.8); (1075.6, 282.6); (1254.2, 362.7)
+entablature: (706.3, 1780.0)
+gargoyle: (438.4, 1311.8)
+glass: (665.7, 1590.2)
+grille: (709.0, 99.1)
+jamb: (573.7, 1990.9)
+lintel: (706.3, 1775.8)
+mullion: (641.3, 1526.9)
+pediment: (681.9, 577.9)
+pilaster: (73.1, 478.7); (331.5, 426.0); (462.7, 362.7); (868.6, 362.7); (1024.2, 447.1); (1206.9, 495.6)
+pointed arch: (100.1, 404.9); (343.7, 303.7); (1047.2, 331.1); (1233.9, 426.0)
+sculpture: (438.4, 1674.5); (952.5, 1695.6)
+shutter: (167.8, 1628.1)
+window: (709.0, 1590.2)

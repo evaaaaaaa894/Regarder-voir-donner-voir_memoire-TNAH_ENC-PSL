@@ -1,0 +1,21 @@
+Image : Abbeville-14_10__6_Dx.jpg
+Modèle : florence-community/Florence-2-large
+Thésaurus : thesau_angl.json (95 termes)
+
+=== Description détaillée (brute) ===
+The image shows the exterior of an old, ornate building with multiple floors and balconies. The building appears to be a neoclassical style, with a combination of beige and brown tones. The facade of the building is decorated with intricate details, including a large ornate archway in the center, flanked by two columns on either side. Above the archway, there is a large window with white curtains, and below the window, there are two smaller balconies with green railings. The balconies are also decorated with ornate carvings and patterns. The sky is visible in the background, and the overall atmosphere of the image is one of grandeur and elegance.
+
+=== Régions détectées, labels bruts ===
+ornate balconies, decorative wrought iron window grille, decorative window frame with white curtains, window, window, window, window, window, window, window, window, window, window, window, window, window, window, window
+
+=== Mots validés (présents dans le thésaurus) ===
+grille, iron, window, wrought iron
+
+=== Labels hors thésaurus (ignorés) ===
+decorative window frame with white curtains, decorative wrought iron window grille, ornate balconies
+
+=== Bounding boxes par terme (pixels, x0 y0 x1 y1) ===
+grille: (1.0, 2.0, 754.0, 621.0); (238.0, 59.0, 519.0, 620.0); (238.0, 112.0, 518.0, 619.0); (238.0, 114.0, 518.0, 556.0); (244.0, 518.0, 514.0, 622.0)
+iron: (2.0, 2.0, 753.0, 621.0); (238.0, 111.0, 520.0, 620.0); (238.0, 113.0, 519.0, 554.0); (244.0, 518.0, 514.0, 622.0)
+window: (303.0, 418.0, 447.0, 540.0); (308.0, 263.0, 445.0, 366.0); (635.0, 437.0, 702.0, 541.0); (552.0, 442.0, 617.0, 544.0); (137.0, 438.0, 202.0, 541.0); (57.0, 440.0, 121.0, 539.0); (624.0, 294.0, 688.0, 389.0); (152.0, 291.0, 212.0, 389.0); (545.0, 296.0, 606.0, 389.0); (75.0, 296.0, 134.0, 389.0); (162.0, 159.0, 221.0, 244.0); (539.0, 166.0, 595.0, 243.0); (615.0, 166.0, 669.0, 242.0); (94.0, 167.0, 147.0, 244.0)
+wrought iron: (238.0, 112.0, 520.0, 620.0); (238.0, 113.0, 519.0, 554.0); (243.0, 518.0, 515.0, 622.0)

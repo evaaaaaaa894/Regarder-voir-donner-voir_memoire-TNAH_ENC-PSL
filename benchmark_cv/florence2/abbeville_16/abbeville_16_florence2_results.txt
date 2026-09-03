@@ -1,0 +1,25 @@
+Image : Abbeville-16_10__8.jpg
+Modèle : florence-community/Florence-2-large
+Thésaurus : thesau_angl.json (95 termes)
+
+=== Description détaillée (brute) ===
+The image shows a large, ornate building with multiple floors and balconies. The building appears to be made of stone or stone and has a cream-colored exterior. The top of the building has a large arched window with white shutters, and below it, there is a balcony with black railings. The balcony is decorated with intricate carvings and sculptures, and there are two statues on either side of the window. The sky is blue and the building is located on a street corner.
+
+=== Régions détectées, labels bruts ===
+French neoclassical building, statue (sculpture), statue of Dionysus on building facade, white double glazed window with wrought iron railing, architectural arched window with blue glass panes and wrought iron railings, white double hung window with lattice design, window, balcony with wrought wrought iron balustrade and white shutters, balconies, balconie window with black metal railing and white curtains, window, balconial window with white louvered shutters on stone building, balconia window with metal railing on building exterior, balconier with white lattice window grille, ballet window with wooden shutters and wrought railing, window, white wooden window frame with decorative molding on stone wall, window, balconic window with ornate railing and blue shutters, window, balustrade, window, window, window, window, window, window, window
+
+=== Mots validés (présents dans le thésaurus) ===
+balcony, balustrade, glass, grille, iron, sculpture, window, wrought iron
+
+=== Labels hors thésaurus (ignorés) ===
+French neoclassical building, architectural arched window with blue glass panes and wrought iron railings, balconia window with metal railing on building exterior, balconial window with white louvered shutters on stone building, balconic window with ornate railing and blue shutters, balconie window with black metal railing and white curtains, balconier with white lattice window grille, balconies, balcony with wrought wrought iron balustrade and white shutters, ballet window with wooden shutters and wrought railing, statue (sculpture), statue of Dionysus on building facade, white double glazed window with wrought iron railing, white double hung window with lattice design, white wooden window frame with decorative molding on stone wall
+
+=== Bounding boxes par terme (pixels, x0 y0 x1 y1) ===
+balcony: (2.0, 1272.0, 353.0, 1449.0); (3.0, 886.0, 314.0, 1082.0); (1070.0, 914.0, 1349.0, 1095.0); (1049.0, 1293.0, 1350.0, 1458.0); (1060.0, 1715.0, 1350.0, 1875.0); (0.0, 1713.0, 324.0, 1863.0); (508.0, 441.0, 844.0, 536.0); (551.0, 1266.0, 815.0, 1380.0); (548.0, 859.0, 811.0, 956.0)
+balustrade: (2.0, 1274.0, 353.0, 1445.0); (1049.0, 1293.0, 1350.0, 1456.0); (1070.0, 916.0, 1349.0, 1085.0); (1060.0, 1715.0, 1350.0, 1871.0); (0.0, 1715.0, 324.0, 1861.0); (33.0, 888.0, 279.0, 1047.0); (551.0, 1268.0, 815.0, 1378.0); (549.0, 861.0, 811.0, 954.0)
+glass: (4.0, 13.0, 1349.0, 2103.0)
+grille: (2.0, 1274.0, 353.0, 1445.0); (1049.0, 1293.0, 1350.0, 1456.0); (1072.0, 916.0, 1349.0, 1085.0); (34.0, 888.0, 279.0, 1045.0); (552.0, 1268.0, 815.0, 1376.0); (551.0, 861.0, 811.0, 954.0)
+iron: (4.0, 15.0, 1349.0, 2103.0)
+sculpture: (352.0, 1542.0, 1016.0, 1991.0); (352.0, 1546.0, 644.0, 1985.0); (728.0, 1549.0, 1016.0, 1983.0)
+window: (555.0, 1049.0, 809.0, 1371.0); (549.0, 686.0, 809.0, 952.0); (552.0, 1458.0, 813.0, 1705.0); (517.0, 1928.0, 849.0, 2107.0); (83.0, 1158.0, 253.0, 1405.0); (98.0, 783.0, 252.0, 1026.0); (564.0, 342.0, 785.0, 519.0); (75.0, 1549.0, 249.0, 1736.0); (50.0, 1966.0, 223.0, 2107.0); (1127.0, 808.0, 1225.0, 1036.0); (1137.0, 1177.0, 1248.0, 1361.0); (1156.0, 1559.0, 1264.0, 1740.0); (1038.0, 230.0, 1137.0, 414.0); (211.0, 216.0, 310.0, 391.0); (1168.0, 1972.0, 1288.0, 2107.0); (1229.0, 306.0, 1317.0, 479.0); (1081.0, 481.0, 1187.0, 583.0); (164.0, 475.0, 275.0, 568.0); (889.0, 1072.0, 938.0, 1266.0); (445.0, 1082.0, 475.0, 1258.0)
+wrought iron: (4.0, 68.0, 1349.0, 2103.0); (2.0, 1272.0, 355.0, 1449.0); (1047.0, 1293.0, 1350.0, 1458.0); (1070.0, 914.0, 1349.0, 1087.0); (33.0, 886.0, 280.0, 1047.0); (551.0, 1266.0, 815.0, 1378.0); (549.0, 859.0, 812.0, 956.0)

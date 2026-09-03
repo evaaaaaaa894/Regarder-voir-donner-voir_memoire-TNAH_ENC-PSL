@@ -1,0 +1,19 @@
+Image : Abbeville-16_10__8.jpg
+Modele detection : llava-hf/llava-1.5-7b-hf
+Modele localisation : IDEA-Research/grounding-dino-tiny
+Thesaurus : thesau_angl.json (95 termes)
+
+=== Reponses brutes de LLaVA par lot ===
+[Lot 1] French window, window, door, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/window surround, window, door, door knocker, door leaf, door/window frame, door/
+
+=== Mots valides (presents dans le thesaurus) ===
+French window, door, door knocker, door leaf, door/window frame, door/window surround, window
+
+=== Bounding boxes par terme (pixels, x0 y0 x1 y1) ===
+French window: (aucune bbox)
+door: (aucune bbox)
+door knocker: (aucune bbox)
+door leaf: (aucune bbox)
+door/window frame: (aucune bbox)
+door/window surround: (aucune bbox)
+window: (aucune bbox)
