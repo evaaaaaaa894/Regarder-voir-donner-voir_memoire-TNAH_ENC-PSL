@@ -1,0 +1,1008 @@
+{
+  "Vosges-Pl_4_§58.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        831,
+        1025,
+        1016,
+        1243
+      ],
+      "clip_score": 0.2353515625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        259,
+        1504,
+        457,
+        1599
+      ],
+      "clip_score": 0.248291015625,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        207,
+        669,
+        346,
+        777
+      ],
+      "clip_score": 0.2288818359375,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        285,
+        1051,
+        436,
+        1185
+      ],
+      "clip_score": 0.2408447265625,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        839,
+        1523,
+        1034,
+        1599
+      ],
+      "clip_score": 0.2467041015625,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        174,
+        966,
+        545,
+        1226
+      ],
+      "clip_score": 0.28271484375,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        896,
+        694,
+        1039,
+        799
+      ],
+      "clip_score": 0.248291015625,
+      "matched": true
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        831,
+        1025,
+        1015,
+        1243
+      ],
+      "clip_score": 0.2310791015625,
+      "matched": true
+    },
+    {
+      "roi_id": 8,
+      "bbox": [
+        259,
+        1504,
+        457,
+        1599
+      ],
+      "clip_score": 0.24853515625,
+      "matched": true
+    },
+    {
+      "roi_id": 9,
+      "bbox": [
+        285,
+        1051,
+        436,
+        1185
+      ],
+      "clip_score": 0.2408447265625,
+      "matched": true
+    }
+  ],
+  "Bac-29_7_§8.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        695,
+        851,
+        901,
+        1279
+      ],
+      "clip_score": 0.26953125,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        120,
+        1050,
+        314,
+        1450
+      ],
+      "clip_score": 0.27294921875,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        347,
+        422,
+        481,
+        702
+      ],
+      "clip_score": 0.2587890625,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        656,
+        304,
+        790,
+        594
+      ],
+      "clip_score": 0.269287109375,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        18,
+        543,
+        146,
+        803
+      ],
+      "clip_score": 0.2335205078125,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        347,
+        422,
+        481,
+        702
+      ],
+      "clip_score": 0.259033203125,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        657,
+        304,
+        790,
+        594
+      ],
+      "clip_score": 0.27490234375,
+      "matched": true
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        695,
+        851,
+        901,
+        1279
+      ],
+      "clip_score": 0.26953125,
+      "matched": true
+    }
+  ],
+  "Rivoli-128_1_§1.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        763,
+        464,
+        872,
+        680
+      ],
+      "clip_score": 0.244140625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        464,
+        527,
+        557,
+        722
+      ],
+      "clip_score": 0.254150390625,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        765,
+        201,
+        867,
+        384
+      ],
+      "clip_score": 0.2452392578125,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        61,
+        173,
+        137,
+        320
+      ],
+      "clip_score": 0.257080078125,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        756,
+        0,
+        862,
+        140
+      ],
+      "clip_score": 0.2607421875,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        203,
+        127,
+        285,
+        282
+      ],
+      "clip_score": 0.26025390625,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        471,
+        285,
+        558,
+        456
+      ],
+      "clip_score": 0.2362060546875,
+      "matched": true
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        195,
+        572,
+        265,
+        752
+      ],
+      "clip_score": 0.218017578125,
+      "matched": true
+    },
+    {
+      "roi_id": 8,
+      "bbox": [
+        992,
+        146,
+        1069,
+        324
+      ],
+      "clip_score": 0.25244140625,
+      "matched": true
+    },
+    {
+      "roi_id": 9,
+      "bbox": [
+        1009,
+        776,
+        1069,
+        945
+      ],
+      "clip_score": 0.2198486328125,
+      "matched": true
+    },
+    {
+      "roi_id": 10,
+      "bbox": [
+        1005,
+        430,
+        1069,
+        648
+      ],
+      "clip_score": 0.1927490234375,
+      "matched": false
+    },
+    {
+      "roi_id": 11,
+      "bbox": [
+        480,
+        54,
+        556,
+        200
+      ],
+      "clip_score": 0.23193359375,
+      "matched": true
+    },
+    {
+      "roi_id": 12,
+      "bbox": [
+        47,
+        598,
+        112,
+        771
+      ],
+      "clip_score": 0.22265625,
+      "matched": true
+    },
+    {
+      "roi_id": 13,
+      "bbox": [
+        209,
+        340,
+        274,
+        495
+      ],
+      "clip_score": 0.2227783203125,
+      "matched": true
+    },
+    {
+      "roi_id": 14,
+      "bbox": [
+        0,
+        203,
+        21,
+        338
+      ],
+      "clip_score": 0.231689453125,
+      "matched": true
+    },
+    {
+      "roi_id": 15,
+      "bbox": [
+        64,
+        377,
+        124,
+        516
+      ],
+      "clip_score": 0.23681640625,
+      "matched": true
+    },
+    {
+      "roi_id": 16,
+      "bbox": [
+        976,
+        0,
+        1069,
+        82
+      ],
+      "clip_score": 0.253173828125,
+      "matched": true
+    },
+    {
+      "roi_id": 17,
+      "bbox": [
+        8,
+        879,
+        48,
+        1008
+      ],
+      "clip_score": 0.2236328125,
+      "matched": true
+    },
+    {
+      "roi_id": 18,
+      "bbox": [
+        714,
+        800,
+        866,
+        959
+      ],
+      "clip_score": 0.2371826171875,
+      "matched": true
+    },
+    {
+      "roi_id": 19,
+      "bbox": [
+        162,
+        858,
+        280,
+        1001
+      ],
+      "clip_score": 0.2340087890625,
+      "matched": true
+    },
+    {
+      "roi_id": 20,
+      "bbox": [
+        0,
+        0,
+        43,
+        123
+      ],
+      "clip_score": 0.2008056640625,
+      "matched": true
+    }
+  ],
+  "Lagarde-Sq-3_5_§1.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        200,
+        272,
+        446,
+        540
+      ],
+      "clip_score": 0.26708984375,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        188,
+        694,
+        465,
+        990
+      ],
+      "clip_score": 0.222900390625,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        178,
+        692,
+        465,
+        890
+      ],
+      "clip_score": 0.2421875,
+      "matched": true
+    }
+  ],
+  "Alphonse-Deville-Pl-1_6_§5.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        854,
+        483,
+        970,
+        573
+      ],
+      "clip_score": 0.2379150390625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        846,
+        755,
+        1033,
+        990
+      ],
+      "clip_score": 0.262451171875,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        862,
+        1106,
+        1055,
+        1198
+      ],
+      "clip_score": 0.263671875,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        375,
+        789,
+        496,
+        941
+      ],
+      "clip_score": 0.278076171875,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        179,
+        326,
+        350,
+        419
+      ],
+      "clip_score": 0.244384765625,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        1205,
+        791,
+        1261,
+        978
+      ],
+      "clip_score": 0.2254638671875,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        42,
+        501,
+        209,
+        637
+      ],
+      "clip_score": 0.260498046875,
+      "matched": true
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        1176,
+        501,
+        1227,
+        657
+      ],
+      "clip_score": 0.2110595703125,
+      "matched": true
+    },
+    {
+      "roi_id": 8,
+      "bbox": [
+        444,
+        332,
+        525,
+        420
+      ],
+      "clip_score": 0.260986328125,
+      "matched": true
+    },
+    {
+      "roi_id": 9,
+      "bbox": [
+        358,
+        502,
+        518,
+        640
+      ],
+      "clip_score": 0.234130859375,
+      "matched": true
+    },
+    {
+      "roi_id": 10,
+      "bbox": [
+        1264,
+        337,
+        1346,
+        441
+      ],
+      "clip_score": 0.28662109375,
+      "matched": true
+    },
+    {
+      "roi_id": 11,
+      "bbox": [
+        748,
+        1118,
+        783,
+        1196
+      ],
+      "clip_score": 0.2197265625,
+      "matched": true
+    },
+    {
+      "roi_id": 12,
+      "bbox": [
+        1455,
+        338,
+        1541,
+        439
+      ],
+      "clip_score": 0.266357421875,
+      "matched": true
+    },
+    {
+      "roi_id": 13,
+      "bbox": [
+        0,
+        317,
+        130,
+        413
+      ],
+      "clip_score": 0.2724609375,
+      "matched": true
+    },
+    {
+      "roi_id": 14,
+      "bbox": [
+        53,
+        760,
+        193,
+        882
+      ],
+      "clip_score": 0.2489013671875,
+      "matched": true
+    },
+    {
+      "roi_id": 15,
+      "bbox": [
+        1121,
+        1120,
+        1149,
+        1199
+      ],
+      "clip_score": 0.220458984375,
+      "matched": true
+    },
+    {
+      "roi_id": 16,
+      "bbox": [
+        1381,
+        502,
+        1556,
+        655
+      ],
+      "clip_score": 0.226318359375,
+      "matched": true
+    },
+    {
+      "roi_id": 17,
+      "bbox": [
+        846,
+        755,
+        1033,
+        990
+      ],
+      "clip_score": 0.263671875,
+      "matched": true
+    },
+    {
+      "roi_id": 18,
+      "bbox": [
+        364,
+        515,
+        490,
+        637
+      ],
+      "clip_score": 0.2152099609375,
+      "matched": true
+    }
+  ],
+  "Lacepede-55_5_§1.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        414,
+        1219,
+        890,
+        1491
+      ],
+      "clip_score": 0.277587890625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        70,
+        1142,
+        381,
+        1491
+      ],
+      "clip_score": 0.256103515625,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        414,
+        1219,
+        890,
+        1491
+      ],
+      "clip_score": 0.278076171875,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        929,
+        1269,
+        1117,
+        1491
+      ],
+      "clip_score": 0.2744140625,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        463,
+        420,
+        789,
+        827
+      ],
+      "clip_score": 0.241943359375,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        463,
+        420,
+        788,
+        826
+      ],
+      "clip_score": 0.239013671875,
+      "matched": true
+    }
+  ],
+  "Villiers-102_17_§15.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        504,
+        1356,
+        680,
+        1534
+      ],
+      "clip_score": 0.26123046875,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        446,
+        345,
+        698,
+        655
+      ],
+      "clip_score": 0.26416015625,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        0,
+        1081,
+        195,
+        1534
+      ],
+      "clip_score": 0.24462890625,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        500,
+        853,
+        676,
+        1181
+      ],
+      "clip_score": 0.25830078125,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        0,
+        176,
+        87,
+        508
+      ],
+      "clip_score": 0.234130859375,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        1033,
+        566,
+        1111,
+        806
+      ],
+      "clip_score": 0.2705078125,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        0,
+        682,
+        28,
+        984
+      ],
+      "clip_score": 0.2442626953125,
+      "matched": true
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        1022,
+        1394,
+        1111,
+        1534
+      ],
+      "clip_score": 0.2357177734375,
+      "matched": true
+    },
+    {
+      "roi_id": 8,
+      "bbox": [
+        470,
+        423,
+        612,
+        622
+      ],
+      "clip_score": 0.261962890625,
+      "matched": true
+    },
+    {
+      "roi_id": 9,
+      "bbox": [
+        1065,
+        655,
+        1111,
+        805
+      ],
+      "clip_score": 0.2308349609375,
+      "matched": true
+    }
+  ],
+  "vue-du-Printemps_9_§26.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        372,
+        1201,
+        597,
+        1359
+      ],
+      "clip_score": 0.28173828125,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        252,
+        158,
+        371,
+        282
+      ],
+      "clip_score": 0.251953125,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        885,
+        215,
+        1042,
+        435
+      ],
+      "clip_score": 0.2210693359375,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        520,
+        182,
+        693,
+        375
+      ],
+      "clip_score": 0.248779296875,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        20,
+        1154,
+        241,
+        1359
+      ],
+      "clip_score": 0.26611328125,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        411,
+        638,
+        580,
+        918
+      ],
+      "clip_score": 0.22900390625,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        75,
+        604,
+        217,
+        878
+      ],
+      "clip_score": 0.23486328125,
+      "matched": true
+    },
+    {
+      "roi_id": 7,
+      "bbox": [
+        797,
+        681,
+        953,
+        962
+      ],
+      "clip_score": 0.238037109375,
+      "matched": true
+    },
+    {
+      "roi_id": 8,
+      "bbox": [
+        737,
+        1247,
+        967,
+        1359
+      ],
+      "clip_score": 0.278564453125,
+      "matched": true
+    },
+    {
+      "roi_id": 9,
+      "bbox": [
+        387,
+        534,
+        645,
+        936
+      ],
+      "clip_score": 0.262939453125,
+      "matched": true
+    },
+    {
+      "roi_id": 10,
+      "bbox": [
+        755,
+        572,
+        1017,
+        979
+      ],
+      "clip_score": 0.278076171875,
+      "matched": true
+    },
+    {
+      "roi_id": 11,
+      "bbox": [
+        413,
+        1233,
+        573,
+        1359
+      ],
+      "clip_score": 0.2498779296875,
+      "matched": true
+    },
+    {
+      "roi_id": 12,
+      "bbox": [
+        37,
+        497,
+        288,
+        891
+      ],
+      "clip_score": 0.26416015625,
+      "matched": true
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "Alphonse-Deville-Pl-1_6_§5.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        0,
+        126,
+        1599,
+        1196
+      ],
+      "clip_score": 0.2330322265625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        0,
+        4,
+        1599,
+        370
+      ],
+      "clip_score": 0.24560546875,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        854,
+        484,
+        969,
+        573
+      ],
+      "clip_score": 0.256591796875,
+      "matched": true
+    }
+  ],
+  "Bac-29_7_§8.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        4,
+        0,
+        1092,
+        1458
+      ],
+      "clip_score": 0.26220703125,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        3,
+        0,
+        1058,
+        468
+      ],
+      "clip_score": 0.2454833984375,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        695,
+        851,
+        901,
+        1279
+      ],
+      "clip_score": 0.2958984375,
+      "matched": true
+    }
+  ],
+  "Lacepede-55_5_§1.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        464,
+        424,
+        786,
+        825
+      ],
+      "clip_score": 0.211181640625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        414,
+        1219,
+        889,
+        1491
+      ],
+      "clip_score": 0.286376953125,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        183,
+        169,
+        961,
+        839
+      ],
+      "clip_score": 0.31201171875,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        0,
+        169,
+        1117,
+        1491
+      ],
+      "clip_score": 0.29248046875,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        4,
+        0,
+        1116,
+        610
+      ],
+      "clip_score": 0.22314453125,
+      "matched": true
+    }
+  ],
+  "Lagarde-Sq-3_5_§1.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        3,
+        0,
+        816,
+        1154
+      ],
+      "clip_score": 0.24853515625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        22,
+        0,
+        816,
+        136
+      ],
+      "clip_score": 0.226318359375,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        200,
+        272,
+        446,
+        540
+      ],
+      "clip_score": 0.263671875,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        190,
+        722,
+        464,
+        890
+      ],
+      "clip_score": 0.256103515625,
+      "matched": true
+    }
+  ],
+  "Rivoli-128_1_§1.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        0,
+        0,
+        1068,
+        1414
+      ],
+      "clip_score": 0.22119140625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        766,
+        201,
+        867,
+        384
+      ],
+      "clip_score": 0.2451171875,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        756,
+        0,
+        862,
+        140
+      ],
+      "clip_score": 0.2484130859375,
+      "matched": true
+    }
+  ],
+  "Villiers-102_17_§15.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        0,
+        0,
+        1109,
+        1534
+      ],
+      "clip_score": 0.2841796875,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        95,
+        0,
+        1111,
+        399
+      ],
+      "clip_score": 0.248046875,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        446,
+        345,
+        698,
+        655
+      ],
+      "clip_score": 0.27294921875,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        504,
+        1356,
+        680,
+        1534
+      ],
+      "clip_score": 0.254638671875,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        472,
+        430,
+        609,
+        621
+      ],
+      "clip_score": 0.27490234375,
+      "matched": true
+    }
+  ],
+  "Vosges-Pl_4_§58.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        4,
+        298,
+        1197,
+        1599
+      ],
+      "clip_score": 0.28515625,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        832,
+        1025,
+        1015,
+        1243
+      ],
+      "clip_score": 0.2685546875,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        896,
+        694,
+        1039,
+        799
+      ],
+      "clip_score": 0.2578125,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        286,
+        1052,
+        436,
+        1185
+      ],
+      "clip_score": 0.2454833984375,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        0,
+        0,
+        1196,
+        714
+      ],
+      "clip_score": 0.262939453125,
+      "matched": true
+    }
+  ],
+  "vue-du-Printemps_9_§26.jpg": [
+    {
+      "roi_id": 0,
+      "bbox": [
+        3,
+        0,
+        1044,
+        1359
+      ],
+      "clip_score": 0.29296875,
+      "matched": true
+    },
+    {
+      "roi_id": 1,
+      "bbox": [
+        252,
+        158,
+        371,
+        282
+      ],
+      "clip_score": 0.261474609375,
+      "matched": true
+    },
+    {
+      "roi_id": 2,
+      "bbox": [
+        20,
+        1154,
+        241,
+        1359
+      ],
+      "clip_score": 0.25439453125,
+      "matched": true
+    },
+    {
+      "roi_id": 3,
+      "bbox": [
+        885,
+        216,
+        1042,
+        434
+      ],
+      "clip_score": 0.237060546875,
+      "matched": true
+    },
+    {
+      "roi_id": 4,
+      "bbox": [
+        372,
+        1201,
+        597,
+        1359
+      ],
+      "clip_score": 0.269287109375,
+      "matched": true
+    },
+    {
+      "roi_id": 5,
+      "bbox": [
+        542,
+        200,
+        668,
+        370
+      ],
+      "clip_score": 0.22607421875,
+      "matched": true
+    },
+    {
+      "roi_id": 6,
+      "bbox": [
+        737,
+        1247,
+        967,
+        1359
+      ],
+      "clip_score": 0.265380859375,
+      "matched": true
+    }
+  ]
+}
