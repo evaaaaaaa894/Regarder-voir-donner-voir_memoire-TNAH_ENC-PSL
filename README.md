@@ -99,7 +99,7 @@ TiamaT est l'outil d'annotation déployé dans le projet TORNE-H par Marion Char
 
 * **Eva Rivière** : Autrice du mémoire, développement Front-End (TiamaT), exécution des benchmarks CV, modification des pipelines SAM 3, conception de l'inventaire ISAD(G) et co-traitement des données.
 * **Marion Charpier** : Direction du mémoire, conception du notebook SAM 3 originel et supervision de l'ontologie d'annotation.
-* **Benoît** : Encadrement stage, Co-traitement et structuration des données JSON (fonds Jantzen).
+* **Benoît Deshayes** : Encadrement stage, Co-traitement et structuration des données JSON (fonds Jantzen).
 * **Projet TORNE-H** : Cadre de recherche institutionnel réunissant le musée d'Orsay, le musée des Arts décoratifs, la BnF et l'École nationale des chartes.
 
 ```
